@@ -1,0 +1,25 @@
+@sSteamCmdForcePlatformType linux
+login anonymous
+force_install_dir /steam/starbound
+app_info_update 1
+app_update 211820 validate
+workshop_download_item 211820 1117007107
+workshop_download_item 211820 1199608652
+workshop_download_item 211820 1218294180
+workshop_download_item 211820 1639501560
+workshop_download_item 211820 1761193918
+workshop_download_item 211820 1772643711
+workshop_download_item 211820 1780307360
+workshop_download_item 211820 729427436
+workshop_download_item 211820 729466018
+workshop_download_item 211820 729480149
+workshop_download_item 211820 729492703
+workshop_download_item 211820 730544933
+workshop_download_item 211820 730745660
+workshop_download_item 211820 731220462
+workshop_download_item 211820 734170655
+workshop_download_item 211820 763259329
+workshop_download_item 211820 792823395
+workshop_download_item 211820 821455287
+workshop_download_item 211820 882900100
+quit
